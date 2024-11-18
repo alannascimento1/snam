@@ -1,1 +1,1 @@
-# SNAM - Sistema de Notificação de Aplicação de Medicamentos
+# SNAM - Sistema de Notificação de APlicação de Medicamentos
