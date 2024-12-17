@@ -6,5 +6,7 @@ class CreateMedications < ActiveRecord::Migration[8.0]
 
       t.timestamps
     end
+
+    add_index :medications, :name, unique: true
   end
 end
