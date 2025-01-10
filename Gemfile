@@ -22,7 +22,7 @@ gem "jbuilder"
 # gem "bcrypt", "~> 3.1.7"
 
 # A utility-first CSS framework that can be composed to build any design, directly in your markup. [https://github.com/rails/tailwindcss-rails]
-gem "tailwindcss-rails", "3.0.0"
+gem "tailwindcss-rails", "3.2.0"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: %i[ windows jruby ]
